@@ -115,7 +115,7 @@ Then run the following commands:
 git clone https://gitlab.com/skrewball/openweather.git
 ```
 ```
-cd openweather
+cd gnome-shell-extension-openweather
 ```
 ```
 make && make install
