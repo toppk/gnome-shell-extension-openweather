@@ -269,7 +269,7 @@ msgstr "mph"
 
 #: src/extension.js:1168 src/preferences/generalPage.js:163
 msgid "km/h"
-msgstr "km/ó"
+msgstr "km/h"
 
 #: src/extension.js:1177 src/preferences/generalPage.js:166
 msgid "kn"
@@ -314,7 +314,7 @@ msgstr "Holnapi előrejelzés"
 #: src/extension.js:1489
 #, javascript-format
 msgid "%s Day Forecast"
-msgstr "%s napi előrejelzés"
+msgstr "%s Napi előrejelzés"
 
 # 200: vihar enyhe esővel
 #: src/openweathermap.js:50
@@ -846,7 +846,7 @@ msgstr "Névkeresés szolgáltató"
 
 #: src/preferences/locationsPage.js:72
 msgid "Provider used for location search"
-msgstr "Szolgálta helyszín kereséséhez"
+msgstr "Szolgáltató a helyszín kereséséhez"
 
 #: src/preferences/locationsPage.js:85
 msgid "Personal MapQuest Key"
@@ -889,7 +889,7 @@ msgstr "Keresőkifejezés szükséges!"
 #: src/preferences/locationsPage.js:305
 #, javascript-format
 msgid "Edit %s"
-msgstr "%s szerkesztése"
+msgstr "%s Szerkesztése"
 
 #: src/preferences/locationsPage.js:327
 msgid "Edit Name"
@@ -1072,7 +1072,7 @@ msgstr "Szélirány nyilakkal"
 #: schemas/org.gnome.shell.extensions.openweather.gschema.xml:76
 msgid "Choose whether to display wind direction through arrows or letters."
 msgstr ""
-"Válassza ki, hogya a szélirány nyilakkal, vagy szövegesen jelenjen meg."
+"Válassza ki, hogy a szélirány nyilakkal, vagy szövegesen jelenjen meg."
 
 #: schemas/org.gnome.shell.extensions.openweather.gschema.xml:80
 msgid "City to be displayed"
@@ -1142,11 +1142,11 @@ msgstr "Az Ön személyes API kulcsa az openweathermap.org-ról"
 #: schemas/org.gnome.shell.extensions.openweather.gschema.xml:160
 msgid "Use the extensions default API key from openweathermap.org"
 msgstr ""
-"Az alkalmazés alapértelmezett openweathermap.org API kulcsának használata"
+"Az alkalmazás alapértelmezett openweathermap.org API kulcsának használata"
 
 #: schemas/org.gnome.shell.extensions.openweather.gschema.xml:164
 msgid "Your personal AppKey from developer.mapquest.com"
-msgstr "Az Ön személyes API kulcsa az developer.mapquest.com-ról"
+msgstr "Az Ön személyes API kulcsa a developer.mapquest.com-ról"
 
 #: schemas/org.gnome.shell.extensions.openweather.gschema.xml:168
 msgid "Seconds to delay popup initialization and data fetch on the first load"
