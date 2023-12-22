@@ -164,7 +164,7 @@
       <summary>Your personal AppKey from developer.mapquest.com</summary>
     </key>
     <key type="s" name="clock-format">
-      <default>'24hr'</default>
+      <default>'24h'</default>
       <summary>Time format for hours</summary>
     </key>
     <key type="i" name="delay-ext-init">
